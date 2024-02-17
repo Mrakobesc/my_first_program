@@ -1,0 +1,14 @@
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.AssemblyInfoInputs.cache
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.AssemblyInfo.cs
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\1 прога\005\bin\Debug\net7.0\005.exe
+C:\Users\User\Documents\1 прога\005\bin\Debug\net7.0\005.deps.json
+C:\Users\User\Documents\1 прога\005\bin\Debug\net7.0\005.runtimeconfig.json
+C:\Users\User\Documents\1 прога\005\bin\Debug\net7.0\005.dll
+C:\Users\User\Documents\1 прога\005\bin\Debug\net7.0\005.pdb
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.dll
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\refint\005.dll
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.pdb
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\005.genruntimeconfig.cache
+C:\Users\User\Documents\1 прога\005\obj\Debug\net7.0\ref\005.dll
