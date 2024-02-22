@@ -1,0 +1,14 @@
+C:\Users\User\Documents\1 прога\014\bin\Debug\net7.0\014.exe
+C:\Users\User\Documents\1 прога\014\bin\Debug\net7.0\014.deps.json
+C:\Users\User\Documents\1 прога\014\bin\Debug\net7.0\014.runtimeconfig.json
+C:\Users\User\Documents\1 прога\014\bin\Debug\net7.0\014.dll
+C:\Users\User\Documents\1 прога\014\bin\Debug\net7.0\014.pdb
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.AssemblyInfoInputs.cache
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.AssemblyInfo.cs
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.dll
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\refint\014.dll
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.pdb
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\014.genruntimeconfig.cache
+C:\Users\User\Documents\1 прога\014\obj\Debug\net7.0\ref\014.dll
